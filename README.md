@@ -3,6 +3,7 @@
 **MarketIntelAI** collects, summarizes, and organizes real-time business intelligence from news, funding rounds, product launches, and industry reports.  
 Ideal for anyone needing structured insights on companies and market trends.
 
+
 ## Usage
 
 1. Install requirements:
